@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2015\Projects\TestArrays\TestArrays\bin\Debug\TestArrays.exe.config
+c:\users\kamel\documents\visual studio 2015\Projects\TestArrays\TestArrays\bin\Debug\TestArrays.exe
+c:\users\kamel\documents\visual studio 2015\Projects\TestArrays\TestArrays\bin\Debug\TestArrays.pdb
+c:\users\kamel\documents\visual studio 2015\Projects\TestArrays\TestArrays\obj\Debug\TestArrays.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2015\Projects\TestArrays\TestArrays\obj\Debug\TestArrays.exe
+c:\users\kamel\documents\visual studio 2015\Projects\TestArrays\TestArrays\obj\Debug\TestArrays.pdb
